@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LuckPanda is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://luckpanda.app
+LuckPanda provides a unified workspace for sales, CRM, purchasing, inventory, finance and compliance, enabling small businesses to manage invoicing, inventory, accounts and regulatory requirements across borders. The platform offers modular tools, a free starter plan, API and MCP keys for developers, and is built by Vynara.
+
+**Areas:** Company · Business Management · CRM · Accounting · Inventory
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://luckpanda.app)
+- [Documentation](https://luckpanda.app/chatbot/guides)
+- [Getting started](https://luckpanda.app/chatbot/tools/chatbot-setup)
+- [API reference](https://luckpanda.app/llms.txt)
+- [Pricing](https://luckpanda.app/pricing)
+- [Changelog](https://luckpanda.app/changelog)
+- [Blog](https://luckpanda.app/blog)
+- [Security](https://luckpanda.app/chatbot/security)
+- [Terms of service](https://luckpanda.app/terms)
+- [Privacy policy](https://luckpanda.app/privacy)
+
+**APIs profiled:** 21
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/luckpanda-app/](https://apis.io/providers/luckpanda-app/).
